@@ -55,11 +55,11 @@ const Skew = () => {
             <div className="bottle-second-text-wrap">
               <div className="bottle-second-heading-cont">
                 {" "}
-                <h1 style={{ color: "#034EA2" }}>How ENO Works?</h1>
+                <h1 style={{ color: "#034EA2" }}>How sodaG Works?</h1>
               </div>
               <div className="bottle-second-para">
                 <h5 style={{ color: "#555555" }}>
-                  Eno is an Ayurvedic Proprietary Medicine containing
+                  sodaG is an Ayurvedic Proprietary Medicine containing
                   Svarjiksara (Shudh) and Nimbukamlam (Shushkam).
                 </h5>
               </div>
@@ -70,7 +70,7 @@ const Skew = () => {
                       Ingredients
                     </h2>
                     <p>
-                      Svarjiksara (Shudh), Nimbukamlam (Shushkam). Eno Flavors
+                      Svarjiksara (Shudh), Nimbukamlam (Shushkam). sodaG Flavors
                       may also contain appropriate color, flavor and/or sodium
                       saccharine and the same have been indicated on label, as
                       appropriate.
@@ -81,13 +81,13 @@ const Skew = () => {
                       Directions & Dosage
                     </h2>
                     <p>
-                      Dissolve one sachet of ENO, or one teaspoon of powder (5
+                      Dissolve one sachet of sodaG, or one teaspoon of powder (5
                       gm) in a glass of water (150 ml) and drink up. It is
-                      recommended to consume ENO as soon as it has completely
+                      recommended to consume sodaG as soon as it has completely
                       dissolved in the water.
                     </p>
                     <p>
-                      Eno powder is indicated for adults and children aged 12
+                      sodaG powder is indicated for adults and children aged 12
                       years and above
                     </p>
                     <p>Minimum dosing interval: 2 hours.</p>
@@ -103,7 +103,7 @@ const Skew = () => {
               <li>In case of overdose, consult a doctor</li>
               <li>Consult your doctor if symptoms persist or worsen</li>
               <li>
-                ENO reduces acidity in your stomach, and may interfere with the
+                sodaG reduces acidity in your stomach, and may interfere with the
                 absorption of other medicines.
               </li>
               <li>Please consult your doctor for possible drug interactions</li>
@@ -113,18 +113,18 @@ const Skew = () => {
               </li>
               <li>
                 If you’re pregnant or breastfeeding, consult your doctor before
-                taking ENO
+                taking sodaG
               </li>
               <li>
-                ENO may cause belching, gas, abdominal distension, and mild
+                sodaG may cause belching, gas, abdominal distension, and mild
                 gastrointestinal irritation
               </li>
               <li>
-                Do not take ENO if you have any of the following conditions:
+                Do not take sodaG if you have any of the following conditions:
                 High blood pressure, Liver, heart and kidney problems, On a
-                low-sodium diet, Allergic to any ingredients in ENO
+                low-sodium diet, Allergic to any ingredients in sodaG
               </li>
-              <li>Read label for additional information before using ENO</li>
+              <li>Read label for additional information before using sodaG</li>
               </div>
             </details>
           </div>

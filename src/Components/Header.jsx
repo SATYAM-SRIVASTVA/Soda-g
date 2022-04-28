@@ -26,7 +26,7 @@ const Header = () => {
         <div className="img-container">
         <Slider {...settings}>
       <div className='second-container'>
-        <img src="https://images.unsplash.com/photo-1613892571289-39d5c649887a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2FjaGV0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"/>
+        <img src="https://images.unsplash.com/photo-1586212653598-40f9046fe5e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60"/>
         <a class="banner-logo" href="#"><h1>sodaG</h1></a>
         <div className="banner-heading">
         <h1 className='banner-text'>Get Fast Relief <br/>From Acidity</h1>
