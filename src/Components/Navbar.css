@@ -1,0 +1,60 @@
+.logo{
+    padding-left: 2rem;
+}
+
+.sachet-img{
+   height: 190px;
+  
+}
+
+.first-drop{
+    background-color: #007437;
+    margin-top: 0.4rem;
+    border-radius: 0;
+    opacity: 0.9;
+}
+.first-drop>*{
+    font-family: "exo_2Semi_bold_italic",sans-serif;
+    width:18rem;
+    display: flex;
+    flex-direction: column;
+    padding: 0 2rem;
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+}
+
+.first-drop-inside{
+    color: white;
+    font-weight: 600;
+    font-size: 1.2rem;
+    text-decoration: underline;
+    text-underline-offset: 0.3rem;
+    text-decoration-color: red;
+    padding: 0rem 2rem 0.5rem 2rem;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: white;
+}
+.second-drop{
+    background-color: #007437;
+    margin-top: 0.4rem;
+    border-radius: 0;
+    opacity: 0.9;
+}
+.second-drop>*{
+    font-family: "exo_2Semi_bold_italic",sans-serif;
+    width:12rem;
+    display: flex;
+    flex-direction: column;
+    padding: 0 2rem;
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+}

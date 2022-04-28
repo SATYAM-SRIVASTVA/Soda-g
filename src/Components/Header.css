@@ -1,0 +1,150 @@
+
+
+/* .diagonal:before {
+	position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-image: linear-gradient(45deg, #654ea3, #eaafc8); 	
+    transform: skewY(-11deg);
+} */
+
+
+
+.second-container{
+    position: relative;
+    text-align: left;
+    width: 100%;
+    /* height: 100%; */
+}
+
+.second-container>img{
+    width: 100%;
+    height: 100%;
+}
+
+.second-container>a{
+    color: black;
+}
+
+.banner-logo{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    /* transform: skewY(8deg); */
+    text-decoration: none;
+    color: white;
+}
+
+.banner-heading{
+    position: absolute;
+    padding-top: 2rem;
+    top: 2rem;
+    right: 2rem;
+    /* transform: skewY(8deg); */
+    padding-right: 5rem;
+}
+
+.banner-heading>h1{
+    color: black;
+}
+
+.banner-heading>h5{
+    color: black;
+}.banner-heading>button{
+    color: black;
+}
+
+.banner-text{
+    color: white;
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+.banner-para{
+    color: white;
+}
+
+.banner-btn{
+    background-color: red;
+    margin-top: 2rem;
+    height: 4rem;
+    width: 23rem;
+    color: white;
+    font-weight: 500;
+    stroke: red;
+    font-size: 1.3rem;
+    border-style: none;
+    border-radius: 0 0 20px 0;
+}
+
+.btn-text{
+    font-weight: 500;
+}
+
+.banner-btn:hover{
+    cursor: pointer;
+}
+
+@media (max-width:760px){
+
+    .diagonal{
+        height: 70vh;
+    }
+    .img-container{
+        height: 100%;
+    }
+
+    .diagonal>img{
+        height: 70vh;
+    }
+
+    .second-container{
+        height: 70vh;
+        width: auto;
+    }
+    
+    .img-container{
+        width: 100%;
+        height: 100%;
+    }
+
+    .banner-heading{
+        position: absolute;
+        top: 6rem;
+        right: 2rem;
+        margin-left: 3rem;
+        text-align: left;
+    }
+
+    .banner-text{
+        color: white;
+        font-size: 2rem;
+        font-weight: 600;
+        text-align: left;
+    }
+
+    .banner-para{
+        text-align: left;
+        font-size: 1rem;
+    }
+
+    .banner-btn{
+      
+        margin-top: 2rem;
+        height: 3.5rem;
+        width: 13rem;
+        font-size: 0.9rem;
+        border-style: none;
+        border-radius: 0 0 20px 0;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .second-container>img{
+        width: auto;  
+    }
+}

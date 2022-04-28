@@ -1,0 +1,139 @@
+.gas-main-wrapper{
+    padding: 0 18%;
+}
+
+.gas-main-wrapper>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+    padding: 1.6rem 0;
+}
+
+.gas-main-wrapper>p{
+    text-align: center;
+    line-height: 28px;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.gas-main-wrapper>li{
+    text-align: left;
+    line-height: 29px;
+    font-weight: 600;
+    font-size: 1.2rem;
+    padding: 0 2rem;
+}
+
+.gas-first-cont>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.4rem;
+    padding: 1.6rem 0;
+}
+
+.gas-firstrow-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 2rem;
+}
+
+
+.gas-firstrow-para>p{
+    text-align: left;
+    line-height: 28px;
+    font-weight: 600;
+    font-size: 1.15rem;
+    padding: 0 1rem;
+}
+
+.gas-firstimg-cont{
+/* width: 100%; */
+display: flex;
+    flex-direction: row;
+}
+
+.gas-firstimg-wrap{
+    height: 4rem;
+    width: 4rem;
+}
+
+.gas-firstimg{
+height: 100%;
+width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/gas-relief-icon.png?auto=format');
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+.gas-secondimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/gas-relief-icon-2.png?auto=format');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.gas-thirdimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/gas-relief-icon-3.png?auto=format');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+.gas-fourthimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/gas-relief-icon-4.png?auto=format');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.gas-fifthimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/gas-relief-icon-5.png?auto=format');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.gas-last-cont>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+    padding: 1.6rem 0;
+}
+
+.gas-last-cont>p{
+    text-align: center;
+    line-height: 28px;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.gas-last-cont>li{
+    text-align: left;
+    line-height: 28px;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+@media screen and (max-width:1250px){
+    .gas-main-wrapper{
+        padding: 2%;
+    }
+}
+
+

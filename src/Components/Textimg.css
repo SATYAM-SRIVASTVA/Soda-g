@@ -1,0 +1,62 @@
+.image-container>img{
+   width: 100%;
+}
+
+.heading-container>h1{
+    text-align: center;
+    padding: 4rem 1rem 0;
+}
+
+.heading-container>p{
+    text-align: center;
+    padding: 1rem 3rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.heading-container>a>button{
+    border: none;
+    outline: none;
+    width: 15rem;
+    height: 3rem;
+    background-color: red;
+    text-align: center;
+    margin: 0 12rem;
+    color: white;
+    font-weight: 500;
+    border-radius: 0 0 20px 0;
+}
+
+.heading-container>a>button:hover{
+    transform: scale(1.1);
+    transition: .2s ease-in-out;
+}
+
+@media (max-width:760px) {
+
+    .heading-container{
+        padding: 0 2rem;
+    }
+    
+    .heading-container>h1{
+        font-size: 2rem;
+        padding: 1rem 0rem 0;
+    }
+
+    .heading-container>a>button{
+        width: 15rem;
+        background-color: red;
+        text-align: center;
+        color: white;
+        font-weight: 500;
+        border-radius: 0 0 20px 0;
+        margin: 2rem;
+    }
+
+    .heading-container>p{
+        text-align: center;
+        padding: 1rem 1rem;
+        font-size: 1.5rem;
+        font-weight: 500;
+    }
+}

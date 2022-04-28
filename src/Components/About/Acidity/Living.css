@@ -1,0 +1,295 @@
+.living-main-container{
+    padding: 0 18%;
+}
+
+.living-main-wrapper{
+    padding:2rem 0;
+}
+
+.living-first-cont>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+    padding: 1.6rem 0;
+}
+
+.living-colorful-para>p{
+    color: #00ab69;
+    text-align: center;
+    line-height: 28px;
+    font-weight: 600;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+.living-first-cont>p{
+    text-align: center;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.living-second-cont{
+    padding: 2rem 0;
+}
+
+.living-secondcol>h2{
+    text-align: left;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:500;
+    font-size: 1.6rem;
+}
+
+.living-secondcol>p{
+    text-align: left;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.living-firstimg-cont{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.living-firstimg-wrap{
+    height: 7rem;
+    width: 7rem;
+}
+
+.living-firstimg{
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-before-bed.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-firstrow{
+    padding: 0.5rem 0;
+}
+
+.living-secondimg{
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Article_Icon_Elevate_Head.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-thirdimg{
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-sleep-left.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-fourthimg{
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-eno.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-second-cont>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+    padding: 1.6rem 0;   
+}
+
+.living-second-cont>p{
+    text-align: center;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.living-first-div{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 1rem ;
+}
+
+.living-secondcol-para{
+    display: flex;
+    flex-direction: column;
+}
+
+.living-secondcolimg-cont{
+    width: 100%;
+}
+
+.living-secondcolimg-wrap{
+    height: 6rem;
+    width: 6rem;
+}
+
+.living-secondimg-first{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-keep-calm.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-secondcol-para>h2{
+    text-align: left;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:400;
+    font-size: 1.6rem;
+}
+
+.living-secondcol-para>p{
+    text-align: left;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.living-secondimg-second{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-healthy-snack.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-secondimg-third{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-eno.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-secondimg-fourth{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/is-it/desktop/Asset-coffee.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-secondimg-fifth{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/is-it/desktop/Asset-smoke.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-sixthimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-stress.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-seventhimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-healthy-snack.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-eigthimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-exercise.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-ninthimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-eno.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-secondimg-tenth{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-research.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-secondimg-eleventh{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-research.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-secondimg-twelveth{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-research.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-secondimg-thirteenth{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/is-it/desktop/Asset-food.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-secondimg-fourteenth{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-alcohol.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.living-secondimg-fifteenth{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-keep-calm.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+@media screen and (max-width:1250px) {
+    .living-main-container{
+        padding: 2%;
+    }
+ 
+    .living-first-div{
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 1rem ;
+    }
+
+    .living-secondcolimg-cont{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+}

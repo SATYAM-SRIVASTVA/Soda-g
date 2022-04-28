@@ -1,0 +1,164 @@
+.ingestion-main-container{
+padding: 4rem 0 2rem 0;
+}
+
+.ingestion-main-wrapper{
+    padding: 0 18%;
+}
+
+.ingestion-first-container>p{
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.07rem;
+}
+
+.color-ingestion{
+    color: #00ab69;
+}
+
+.ingestion-second-container{
+    border: 5px solid #E1E2E2;
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.ingestion-second-container>h2{
+    text-align: left;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.5rem;
+    padding: 2rem 1rem;
+}
+
+
+.ingestion-second-container>p{
+    text-align: left;
+    font-weight: 600;
+    font-size: 1.07rem;
+}
+
+.ingestion-third-container>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.5rem;
+}
+
+.ingestion-third-container>p{
+    text-align: left;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+.ingestion-image-container{
+    /* width: 100%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ingestion-image{
+    padding: 2rem 0;
+    height: 23rem;
+    width:28rem;
+}
+
+.ingestion-image-wrapper{
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/is-it/desktop/is-it-acidity.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+
+.ingestion-fourth-container>h2{
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.5rem;
+}
+
+.ingestion-center{
+    text-align:center;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.ingestion-left{
+    font-weight: 600;
+    font-size: 1.1rem;
+    text-align: left;
+}
+.ingestion-fifth-container{
+    background: #F1F2F2;
+}
+
+.ingestion-fifth-container>h2{
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.5rem;
+}
+
+.ingestion-fifth-container>p{
+    font-weight: 600;
+    font-size: 1.1rem;
+    text-align: left;
+}
+
+.ingestion-color{
+    color: #00ab69;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.ingestion-fifth-seccol-first{
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.ingestion-fifth-seccol-second{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ingestion-image-col{
+    height: 30rem;
+    width: 15rem;
+}
+
+
+.ingestion-image-col-con{
+    width: 100%;
+    height: 100%;
+    background-size:contain;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/is-it/desktop/acidity-symptoms.png?auto=format');
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width:1250px) {
+    .ingestion-main-container{
+        padding: 3rem 0 2rem 0;
+        }
+        
+        .ingestion-main-wrapper{
+              padding: 2%;
+        }
+        .ingestion-second-container>h2{
+            padding: 2rem 0;
+        }
+}

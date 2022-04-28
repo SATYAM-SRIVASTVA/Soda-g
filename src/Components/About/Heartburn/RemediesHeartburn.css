@@ -1,0 +1,186 @@
+.remedies-main-container{
+    padding: 0 18%;
+}
+
+.remedies-first-cont>p{
+    text-align: center;
+    line-height: 28px;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.remedies-colorful{
+    color: #1e3796;
+    font-style: italic;
+}
+
+.remedies-second-cont>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+    padding: 1.6rem 0;
+}
+
+.remedies-second-cont>p{
+    text-align: center;
+    line-height: 28px;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.remedies-firstcol-wrap{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.remedies-firstimg-cont{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.remedies-firstimg-wrap{
+    height: 7rem;
+    width:7rem;
+}
+
+.remedies-firstimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/remedies-acid-reflux-icon-1.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.remedies-para-wrap{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0;
+}
+
+.remedies-para-wrap>h2{
+    text-align: left;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:500;
+    font-size: 1.5rem;
+}
+
+.remedies-para-wrap>p{
+    text-align: left;
+    line-height: 28px;
+    font-weight: 600;
+    font-size: 1.15rem;
+}
+
+.remedies-secondimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/remedies-acid-reflux-icon-2.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.remedies-thirdimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/remedies-acid-reflux-icon-3.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.remedies-fourthimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/remedies-acid-reflux-icon-4.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.remedies-fifthimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/remedies-acid-reflux-icon-5.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.remedies-third-cont>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+    padding: 1.6rem 0;
+}
+
+.remedies-third-cont>p{
+    text-align: center;
+    line-height: 28px;
+    font-weight: 600;
+    font-size: 1.18rem;
+}
+
+.remedies-sixthimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/remedies-acid-reflux-icon-6.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.remedies-seventhimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/remedies-acid-reflux-icon-7.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.remedies-ninthimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/remedies-acid-reflux-icon-9.png?auto=formathttps://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/remedies-acid-reflux-icon-9.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.remedies-tenthimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/remedies-acid-reflux-icon-10.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.remedies-eleventhimg{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/remedies-acid-reflux-icon-8.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.remedies-last-para>p{
+    text-align: left;
+    line-height: 28px;
+    font-weight: 600;
+    font-size: 1.199rem;
+}
+
+@media screen and (max-width:1250px) {
+    .remedies-main-container{
+        padding: 2%;
+    }
+}

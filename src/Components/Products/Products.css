@@ -1,0 +1,123 @@
+
+.skew{
+    width:100%;
+}
+.product-first{
+    width: 100%;
+    height: 30rem;
+}
+.product-image-cont{
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/eno-products/edo-product-hero-banner.jpg?auto=format');
+}
+
+.product-second{
+    width: 100%;
+    border-top: solid #D2012C 1rem;
+    height: 100vh;
+    transform: skewY(-10deg);
+    background-color: white;
+    margin-top: -7rem;
+}
+.product-second-cont{
+    transform: skewY(10deg);
+    width: 100%;
+    
+    height: 50vh;
+}
+.product-third{
+    width: 100%;
+    height: 45rem;
+    background-image: linear-gradient(to right, rgb(186,217,138), rgb(211,229,173), rgb(186,217,138));
+    margin-top: -7rem;
+}
+.product-third>div{
+    padding-top: 10rem;
+}
+
+.product-card-wrapper{
+    padding: 3rem;
+}
+.products-text-wrapper{
+    width: 100%;
+    height: 100vh;
+    font-size: .9rem;
+    background-image: linear-gradient(to right, rgb(186,217,138), rgb(211,229,173), rgb(186,217,138));
+    
+}
+.product-li-cont{
+    justify-content: center;
+    font-weight: bold;
+    padding-right: 10%;
+    padding-top: 1rem;
+}
+
+.product-precautions-cont{
+padding-left: 7rem;
+padding-top: 5rem;
+/* transform: skewY(10deg); */
+
+}
+.product-card-wrapper{
+    width: 100%; 
+    display: flex;
+  
+    align-items: center;
+    justify-content: center;
+}
+.product-card-cont>div{
+    width:calc( 50% - 2rem);
+   margin: 1rem;
+   padding: 0;
+   border-radius: 0 0 30px 0;
+}
+.product-card-cont{
+    width: 60%;
+   
+}
+.product-card-image{
+    width: 100%;
+    height: auto;
+    background-image: linear-gradient(to right, rgb(186,217,138), rgb(211,229,173), rgb(186,217,138));
+}
+.custom-btn{
+    width: 80%;
+    margin: 0 10%;
+    height: 3.5rem;
+    color: white;
+    font-weight: 600;
+    font-size: 1.5rem;
+    font-style: italic;
+    border-radius: 0 0 30px 0;
+    background-color: red;
+    transition: transform .2s;
+}
+.custom-btn:hover{
+    background-color: rgb(241, 50, 50);
+    color: white;
+    transform: scale(1.05);
+
+}
+ 
+.product-precautions-cont>h5{
+    
+    
+    padding-top: 2rem;
+
+}
+
+.triangle{
+    width: 0;
+	height: 0;
+	border-top: 20rem solid transparent;
+	border-right: 100vw solid rgb(186,217,138);
+	border-bottom: 0 solid transparent;
+}
+
+@media screen and (max-width:1250px) {
+    .product-card-cont{
+        display: flex;
+        flex-direction: column;
+    }
+}

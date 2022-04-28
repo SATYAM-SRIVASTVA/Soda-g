@@ -1,0 +1,371 @@
+
+.understand-main-container{
+    padding: 0 18%;
+}
+
+.understand-main-wrapper{
+    padding: 5rem 0;
+}
+
+
+.understand-first-para{
+    color: #00ab69;
+}
+
+.understand-first-container{
+    padding-bottom: 2rem;
+}
+.understand-first-container>p{
+    text-align: center;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.understand-second-container>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+}
+
+.understand-second-container>p{
+    text-align: center;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.1rem;   
+}
+
+.understand-firstimgcont{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.understand-firstimgwrap{
+    height: 30rem;
+    width: 50rem;
+}
+
+.understnad-firstimg{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Article_1Article_2Image.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.understand-third-container>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+}
+
+.understand-third-container>p{
+    text-align: center;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.1rem; 
+}
+
+/* .understand-secondimgcont{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+
+.understand-secondimgwrap{
+    height: 7rem;
+    width: 7rem;
+}
+
+.understand-secondimg{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Article_Icon_Spicy_Food.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+
+.vertical-line{
+    padding-left: 4%;
+    border-left: 3px solid #263D92;
+}
+
+.understand-vertical-line-first>h3{
+    text-align: left;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:500;
+    font-size: 1.4rem;
+}
+
+.understand-vertical-line-first>p{
+    text-align: left;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.1rem; 
+}
+
+.understand-vertical-line-first{
+    margin-bottom: 2rem;
+}
+
+.understand-thirdimg{
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Article_Icon_Smoking.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.understand-fourthimg{
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Article_Icon_Medication.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.understand-fourth-container{
+    border: 5px solid #E1E2E2;
+    height: auto;
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.understand-fourth-container>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+    padding: 1.5rem 0;
+}
+
+.understand-fourth-container>p{
+    text-align: center;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.1rem; 
+}
+
+.understand-fifth-container{
+    padding: 2rem 0;
+}
+
+.understand-fifth-container>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+    padding: 1.5rem 2rem;
+}
+
+.understand-fifth-row{
+    padding: 0 5rem ;
+}
+
+.undersand-fifth-firstcol>p{
+    text-align: left;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.1rem;   
+}
+
+.understand-fifthimgwrap{
+    height: 10rem;
+    width: 10rem;
+}
+
+.understand-fifthimg{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Article_Icon_Elderly.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.understand-sixth-container>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+    padding: 1.5rem 2rem;
+}
+
+.understand-sixth-container>p{
+    text-align:center;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.understand-sixthimgwrap{
+    height: 7rem;
+    width: 7rem;
+}
+
+.understand-sixthimg{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Article_Icon_Overweight.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.understand-last-row{
+    padding: 2rem 0;
+}
+.lastcol-first-wrap{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+
+.lastcol-first-wrap>p{
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.18rem;
+}
+
+.understand-seventhimg{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Article_Icon_Clothing.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.understand-eigthimg{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Article_Icon_Elevate_Head.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+.understand-ninthimg{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Article_Icon_Smoking.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+.understand-tenthimg{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Article_Icon_Food.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.colorful-wrapper{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.understand-colorfulwrap{
+    height: 3rem;
+    width: 3rem;
+}
+
+.understand-eleventhimg{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Asset1.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.verticallast-linered>h4{
+    color: #ED1C24; 
+}
+
+.verticallast-lineblue>h4{
+    color: #0A93CC; 
+}
+
+.verticallast-linegreen>h4{
+    color: #0DB14B; 
+}
+
+.colorful-para>p{
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.18rem;
+    padding-top: 3rem;
+}
+
+.verticallast-linered{
+    border-left: 5px solid #ED1C24;
+    padding: 0 5%;
+}
+
+.understand-colorful-heading{
+    padding: 2rem 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.understand-twelvethimg{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Asset222.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.understand-thirteenthimg{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/understanding/desktop/Asset3.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.verticallast-lineblue{
+    border-left: 5px solid #0A93CC;
+    padding: 0 5%;
+}
+
+.verticallast-linegreen{
+    border-left: 5px solid  #0DB14B;;
+    padding: 0 5%;
+}
+
+@media screen and (max-width:1250px) {
+    .understand-main-container{
+        padding: 2%;
+    }
+    
+    .understand-colorful-heading{
+        padding: 2rem 0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .understand-firstimgwrap{
+        height: 20rem;
+        width: 30rem;
+    }
+}
+

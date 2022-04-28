@@ -1,0 +1,214 @@
+.symptoms-main-container{
+    padding: 0 18%;
+}
+
+.symptoms-main-wrapper{
+    padding: 3rem 0;
+}
+
+.symptoms-first-container>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.5rem;
+    padding: 1.5rem 0;
+}
+
+.symptoms-first-container>p{
+    color: #0bda8b;
+    text-align: center;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.1rem;  
+}
+
+.symptoms-second-container>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.5rem;
+    padding: 1.6rem 0;
+}
+
+.symptoms-second-container>p{
+    text-align: center;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 1.1rem;  
+}
+
+.symptoms-img-cont{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.symptoms-img-wrap{
+    height: 28rem;
+    width:55rem
+}
+
+.symptoms-img{
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/initial-symptoms-of-acid-reflux-banner2.jpg?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.symptoms-secondimg-wrap{
+    height: 7rem;
+    width:8rem
+}
+
+.symptoms-second-img{
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/initial-symptoms-of-acid-reflux-top-icon1.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.symptoms-first-col>li{
+    line-height: 26px;
+    font-weight: 600;
+    font-size: 1.1rem;  
+}
+
+.symptoms-third-container>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.3rem;
+    padding: 1.6rem 0;
+}
+
+.symptoms-firstcol-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.symptoms-align{
+    display: flex;
+    flex-direction: column;
+}
+
+.symptoms-align>h2{
+    text-align: left;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 1.3rem;
+}
+
+.symptoms-align>p{
+    text-align: left;
+    line-height: 26px;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+.symptoms-thirdimg-cont{
+width:100%;
+display: flex;
+
+}
+
+.symptoms-thirdimg-wrap{
+height: 6rem;
+width: 6rem;
+}
+
+.symptoms-third-img{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/initial-symptoms-of-acid-reflux-top-icon2.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.symptoms-fourth-img{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/initial-symptoms-of-acid-reflux-top-icon4.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.symptoms-fifth-img{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/initial-symptoms-of-acid-reflux-top-icon6.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.symptoms-sixth-img{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/initial-symptoms-of-acid-reflux-top-icon8.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.symptoms-seventh-img{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/initial-symptoms-of-acid-reflux-top-icon3.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.symptoms-eigth-img{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/initial-symptoms-of-acid-reflux-top-icon5.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.symptoms-ninth-img{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/initial-symptoms-of-acid-reflux-top-icon7.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.symptoms-tenth-img{
+    height: 100%;
+    width: 100%;
+background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/Desktop/initial-symptoms-of-acid-reflux-top-icon9.png?auto=format');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.last-para-symptoms{
+    padding: 1rem 0;
+}
+
+.last-para-symptoms>p{
+    text-align: center;
+    line-height: 26px;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+@media screen and (max-width:1250px) {
+    .symptoms-main-container{
+        padding: 2%;
+    }
+    
+}
+

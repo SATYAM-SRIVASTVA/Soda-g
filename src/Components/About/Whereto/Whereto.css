@@ -1,0 +1,15 @@
+.whereto-head>h3{
+    padding-bottom: 1rem;
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  font-weight:600;
+  font-size: 2.5rem;
+}
+
+.whereto-main-container>p{
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.07rem;
+}

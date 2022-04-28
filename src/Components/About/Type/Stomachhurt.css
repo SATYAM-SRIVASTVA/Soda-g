@@ -1,0 +1,116 @@
+.stomach-main-container{
+  text-align: center;
+    padding: 4rem 0 2rem 0;
+}
+.stomach-main-wrapper{
+    padding: 0 18%;
+}
+/* first-container */
+
+.stomach-first-container>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+    padding: 2rem 1rem;
+}
+
+.stomach-first-container>p{
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.stomach-first-para{
+    color: #00ab69;
+}
+
+/* second-container */
+
+.stoamch-second-container>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+    padding: 2rem 1rem;
+}
+
+.stoamch-second-container>p{
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.1rem;   
+}
+.stomach-first-image-con{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.stomach-first-img-wrapper{
+    height: 35rem;
+    width: 28rem;
+}
+.stomach-first-image{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/heartburn/mobile/Asset-why-stomach-hurt_mobile.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.stomach-pain>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+    font-style: italic;
+    font-weight:600;
+    font-size: 2.6rem;
+    padding: 2rem 1rem;
+
+}
+.stomach-pain{
+    text-align: left;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+.stomach-pain>li{
+    line-height: 2rem;
+}
+
+.common-threeheading{
+    padding: 1rem 0;
+}
+
+.gastric-pain{
+    padding-top: 1rem;
+}
+
+.stomach-pain>h3{
+    font-size: 24px;
+    line-height: 26px;
+    color: #1e3796;
+    font-weight: 500;
+    font-family: "exo_2Semi_bold_italic",sans-serif;
+    font-style: italic;
+}
+
+.stoamch-second-container>li{
+    font-weight: 600;
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+}
+
+.last-adjust{
+    padding-top: 1rem;
+}
+
+ @media screen and (max-width:1250px) {
+    .stomach-main-wrapper{
+        padding: 2%;
+    }
+} 

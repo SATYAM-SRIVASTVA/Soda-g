@@ -1,0 +1,341 @@
+.gred-main-container {
+  text-align: center;
+  padding: 5rem 0 2rem 0 ;
+}
+
+.gred-main-wrapper{
+    padding: 0 18%;
+}
+
+/* gred-first-container */
+
+.gred-first-container > h2 {
+  font-size: 2.3rem;
+  color: #1e3796;
+  margin-bottom: 2rem;
+  font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.gred-first-container > h3 {
+  text-transform: none !important;
+  font-size: 1.4rem;
+  color: #1e3796;
+  font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  margin-bottom: 3rem;
+  font-weight: 400;
+}
+
+.gred-first-container > p {
+  font-family: "exo_2Semi_bold_italic", sans-serif;
+  color: #555;
+  font-size: 1.1rem;
+  line-height: 24px;
+  font-weight: 600;
+}
+
+/* gred-second-container */
+
+.gred-second-container {
+    margin: 3rem 0;
+}
+
+.gred-second-container > h2 {
+  padding: 0 25%;
+  font-size: 2.3rem;
+  color: #1e3796;
+  margin-bottom: 2rem;
+  font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.gred-second-container > h3 {
+  text-transform: none !important;
+  font-size: 1.4rem;
+  color: #1e3796;
+  font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  margin-bottom: 3rem;
+  font-weight: 400;
+}
+
+.gred-second-container > p {
+  font-family: "exo_2Semi_bold_italic", sans-serif;
+  color: #555;
+  font-size: 1.1rem;
+  line-height: 24px;
+  font-weight: 600;
+}
+
+
+/* table */
+
+.gred-first-row{
+    padding: 5px 15px;
+    border: 1px solid #6D6E71;
+    background: #0DB14B;
+}
+
+.gred-first-row>h2{
+    font-size: 2.5rem;
+    color: white;
+  font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  font-weight: 600;
+
+}
+
+.gred-second-row{
+    text-align: left;
+}
+
+.gred-second-col{
+    /* text-align: left; */
+    border: solid black 1px;
+     display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center; 
+    padding: 0 4%;  
+}
+
+.gred-second-col>p{
+    padding-top: 0.5rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.gred-second-col>h3{
+
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  font-weight:600;
+}
+
+.gred-first-subrow{
+    border: solid black 1px;
+    padding: 8% 5%;
+}
+
+.gred-first-subrow>h3{
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  font-weight:600;
+}
+
+.gred-first-subrow>ul{
+    list-style: square;
+    padding-left: 12%;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+
+.gred-second-subrow{
+    padding: 8% 5%;
+    border: solid black 1px;
+}
+.gred-second-subrow>h3{
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  font-weight:600;
+}
+
+.gred-second-subrow>ul{
+    list-style: square;
+    padding-left: 12%;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+/* gred fourth container */
+.gred-fourth-container{
+    padding: 4% 0;
+}
+
+.gred-fourth-subfirst{
+    text-align: left;
+}
+
+.gred-fourth-subfirst>h3{
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  font-weight:600;
+}
+
+.gred-fourth-subfirst>p{
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.gred-fourth-subsecond{
+    text-align: left;
+}
+
+.gred-fourth-subsecond>h3{
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  font-weight:600;
+}
+
+.gred-fourth-subsecond>p{
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+
+.gred-fourth-subthird{
+    text-align: left;
+}
+
+.gred-fourth-subthird>h3{
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  font-weight:600;
+}
+
+.gred-fourth-subthird>p{
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+/* fifth container */
+
+.gred-fifth-container>h2{
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  font-weight:600;
+  font-size: 2.5rem;
+}
+
+.gred-fifth-container>p{
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+/* sixth container */
+
+.gred-sixth-container{
+    margin: 2.5rem 0;
+}
+.gred-sixth-subsecond{
+    padding-left: 2rem;
+}
+.gred-sixth-first-wrapper{
+    padding-bottom: 1.5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.gred-sixth-subfirst{
+    width: 5rem;
+    height:5rem ;
+}
+
+.gred-image1{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity/desktop/Asset-watch.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.gred-sixth-subsecond>h3{
+    text-align: left;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  font-weight:600;
+  font-size: 1.5rem;
+}
+
+.gred-sixth-subsecond>p{
+    text-align: left;
+    font-weight: 600;
+    font-size: 1.07rem;
+}
+
+.gred-image2{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity/desktop/Asset-weight.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.gred-image3{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity/desktop/Asset-apple.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.gred-image4{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-sleep-left.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.gred-image5{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/nutrition-eno/en_IN/all-about-acidity/acidity-free/desktop/Asset-eno.png?auto=format');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/* seventh container */
+
+.gred-seventh-head{
+    padding: 2% 18%;
+}
+
+.gred-seventh-head>h2{
+    text-align: center;
+    color: #1e3796;
+    font-family: "exo_2Semi_bold_italic", sans-serif;
+  font-style: italic;
+  font-weight:600;
+  font-size: 2.5rem;
+}
+
+.gred-seventh-container>p{
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.07rem;
+}
+
+.gred-seventh-span{
+    color: #00ab69;
+    font-weight: bold;
+}
+
+.last-enter{
+    padding: 0 5%;
+    text-align: center;
+}
+
+@media screen and (max-width:1250px) {
+    .gred-main-wrapper{
+        padding: 2%;
+    }
+
+    .gred-main-container{
+        padding: 3rem 0 2rem 0;
+    }
+}
+
